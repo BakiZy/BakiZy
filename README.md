@@ -1,5 +1,5 @@
 My name is Milos Petrov, 34 year old junior  Web Developer.
-I used to study computer science but i dropped out after 2nd year. Didn't have much connections with coding since then, until last year I decided to get back into it.
+I used to study computer science but i dropped out after struggling with real life issues. Didn't have much connections with coding since then, until spring last year I decided to get back into it.
 Started slowly with HTML and CSS, finished couple online courses, and a bootcamp for beginners (worked in Java), after which i also succesfully completed backend bootcamp, 
 focusing on .NET technologies. 
 

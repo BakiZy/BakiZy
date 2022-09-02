@@ -7,7 +7,6 @@ You can check my 1st serious project here => https://poodlesvonapalusso.xyz/
 It's a crud app, with custom JWT authentication and roles, to help me around handling and showing my poodles, as an owner of a small poodle kennel. 
 Backend side is done in c#, while the front end site is done with Typescript and React. 
 
-Now i am working in react, but still prefer working on backend 
 
 
 <!---
